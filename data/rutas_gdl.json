@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "city": "Guadalajara, Jalisco, México",
+    "description": "Coordenadas reales para optimización de rutas de entrega de última milla en la Zona Metropolitana de Guadalajara",
+    "distance_unit": "km",
+    "weight_unit": "kg",
+    "default_vehicle_capacity_kg": 180.0
+  },
+  "depot": {
+    "id": 0,
+    "name": "CEDIS Central - Parque Industrial El Álamo",
+    "zone": "El Álamo Industrial",
+    "lat": 20.6294,
+    "lon": -103.3211,
+    "weight_kg": 0.0
+  },
+  "clients": [
+    {
+      "id": 1,
+      "name": "Centro Histórico - Catedral de Guadalajara",
+      "zone": "Centro",
+      "lat": 20.6767,
+      "lon": -103.3475,
+      "weight_kg": 18.5
+    },
+    {
+      "id": 2,
+      "name": "Chapultepec Sur - Colonia Americana",
+      "zone": "Americana",
+      "lat": 20.6721,
+      "lon": -103.3684,
+      "weight_kg": 14.0
+    },
+    {
+      "id": 3,
+      "name": "Glorieta Minerva - Vallarta",
+      "zone": "Arcos Vallarta",
+      "lat": 20.6744,
+      "lon": -103.3874,
+      "weight_kg": 22.0
+    },
+    {
+      "id": 4,
+      "name": "Providencia - Punto Sao Paulo",
+      "zone": "Providencia",
+      "lat": 20.7019,
+      "lon": -103.3772,
+      "weight_kg": 16.5
+    },
+    {
+      "id": 5,
+      "name": "Puerta de Hierro - Andares",
+      "zone": "Zapopan Poniente",
+      "lat": 20.7107,
+      "lon": -103.4126,
+      "weight_kg": 25.0
+    },
+    {
+      "id": 6,
+      "name": "Centro Histórico de Zapopan - Basílica",
+      "zone": "Zapopan Centro",
+      "lat": 20.7214,
+      "lon": -103.3918,
+      "weight_kg": 15.0
+    },
+    {
+      "id": 7,
+      "name": "Ciudad del Sol - Plaza del Sol",
+      "zone": "Zapopan Sur",
+      "lat": 20.6508,
+      "lon": -103.4019,
+      "weight_kg": 21.0
+    },
+    {
+      "id": 8,
+      "name": "Expo Guadalajara - Chapalita",
+      "zone": "Verde Valle",
+      "lat": 20.6536,
+      "lon": -103.3913,
+      "weight_kg": 19.5
+    },
+    {
+      "id": 9,
+      "name": "Centro Médico de Occidente - Oblatos",
+      "zone": "Independencia",
+      "lat": 20.6870,
+      "lon": -103.3292,
+      "weight_kg": 17.0
+    },
+    {
+      "id": 10,
+      "name": "CUCEI - Blvd. Marcelino García Barragán",
+      "zone": "Olímpica",
+      "lat": 20.6569,
+      "lon": -103.3256,
+      "weight_kg": 12.5
+    },
+    {
+      "id": 11,
+      "name": "San Pedro Tlaquepaque - El Parián",
+      "zone": "Tlaquepaque Centro",
+      "lat": 20.6401,
+      "lon": -103.3117,
+      "weight_kg": 20.0
+    },
+    {
+      "id": 12,
+      "name": "Mercado de Abastos - Cruz del Sur",
+      "zone": "Comercial Abastos",
+      "lat": 20.6475,
+      "lon": -103.3775,
+      "weight_kg": 28.0
+    }
+  ]
+}
+
